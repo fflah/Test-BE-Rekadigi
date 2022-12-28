@@ -33,7 +33,7 @@
 
 <body style="background-color: #FEEA00;">
     <div class="container-xxl bg-white p-0">
-        
+
 
         <!-- Navbar & Hero Start -->
         <div class="container-xxl position-relative p-0">
@@ -266,25 +266,26 @@
 
         <!-- Footer Start -->
         <div class="container-fluid bg-primary text-white wow fadeIn" data-wow-delay="0.1s">
+            
             <div class="container py-5 px-lg-5">
                 <div class="row gy-5 gx-4 pt-5">
-
+                    
                     <div class="col-lg-5 col-md-12">
                         <div class="row gy-5 g-4">
                             <div style="color: black !important;" class="col-md-6">
-                                <h5 style="color: black !important;" class="fw-bold text-white mb-4">Tentang GAS</h5>
+                                <h6 style="color: black !important;" class="fw-bold text-white mb-4">Tentang GAS</h6>
                                 <a style="color: black !important;" class="" href="">Terms and Conditions</a>
                                 <a style="color: black !important;" class="" href="">Privacy</a>
                             </div>
                             <div style="color: black !important;" class="col-md-6">
-                                <h5 style="color: black !important;" class="fw-bold text-white mb-4">Hubungi Kami</h5>
+                                <h6 style="color: black !important;" class="fw-bold text-white mb-4">Hubungi Kami</h6>
                                 <a style="color: black !important;" class="" href="">Kritik Saran</a>
                             </div>
 
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-3">
-                        <h5 style="color: black !important;" class="fw-bold text-white mb-4">Ikuti Kami</h5>
+                        <h6 style="color: black !important;" class="fw-bold text-white mb-4">Ikuti Kami</h6>
                         <p class="mb-2"><img style="
     width: 30px;
     padding-right: 5px;
@@ -297,7 +298,7 @@
 " src="https://gas.id/assets/youtube-symbol.png"></p>
                     </div>
                     <div class="col-md-6 col-lg-3">
-                        <h5 style="color: black !important;" class="fw-bold text-white mb-4">Unduh</h5>
+                        <h6 style="color: black !important;" class="fw-bold text-white mb-4">Unduh</h6>
                         <div class="bodycontent appsimg_footer">
                             <img style="width: 105px;" src="https://gas.id/assets/play_store.png">
                             <img style="width: 105px;" src="https://gas.id/assets/app_store.png">
